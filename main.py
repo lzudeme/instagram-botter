@@ -52,13 +52,8 @@ def __main__:
                   print('welcome to the gen')
                       &&code.acces('repl.fllwrs-code')
        else:
-            print('money not on this account - Followers gen is locked for 24hrs on your machine.')
-            huu=time.now
-                huy=time.now+24h
-                    time_to_wait=huy-time.now+24h
-                        file.lock( time_to_wait ):
-                                                parse [ ]
-       arras = { true }
+            print('welcome to the gen')
+                      &&code.acces('repl.fllwrs-code')
        
      
        
